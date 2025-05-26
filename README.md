@@ -31,9 +31,9 @@
 ---
 
 ## 📬 Submission Info
-- **Student Name**: *[Your Name]*
+- **Student Name**: *ananya singh - 23bce8349*
 - **Course**: Project Management – Blackbucks
-- **Project Guide**: [Optional]
+- 
 
 ---
 
